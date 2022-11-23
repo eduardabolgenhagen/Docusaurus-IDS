@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Fácil utilização',
-    Svg: require('@site/static/img/facil.svg').default,
+    Svg: require('@site/static/img/aaaa.svg').default,
     description: (
       <>
         Visando uma melhoria de um novo sistema para registrar demandas de novos sistemas e buscando extinguir o uso do formulário em SharePoint.
