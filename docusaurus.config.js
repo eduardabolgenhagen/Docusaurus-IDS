@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'GEDESTI',
+  tagline: 'Gerenciamento De Demandas De Sistemas De TI',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -57,10 +57,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'GEDESTI',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/gedesti.svg',
         },
         items: [
           {
@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Objetivo', position: 'left' },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -81,46 +81,41 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentação',
             items: [
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
+                label: 'Objetivo',
                 to: '/blog',
+              }
+            ],
+          },
+          {
+            title: 'Desenvolvedores',
+            items: [
+              {
+                label: 'Ester Girelli',
+                to: 'https://github.com/Esterzinha12'
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+                label: 'Eduarda Bolgenhagen De Campos',
+                to: 'https://github.com/eduardabolgenhagen'
+              }, 
+              {
+                label: 'Leonardo Heitor Poglia',
+                to: 'https://github.com/leopoglia'
+              }, 
+              {
+                label: 'Vytor Augusto Rosa',
+                to: 'https://github.com/Vytor-Rosa'
+              }
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `GEDESTI WEG © ${new Date().getFullYear()} Gedesti`,
       },
       prism: {
         theme: lightCodeTheme,

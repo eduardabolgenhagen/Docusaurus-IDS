@@ -4,32 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Fácil utilização',
+    Svg: require('@site/static/img/facil.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Visando uma melhoria de um novo sistema para registrar demandas de novos sistemas e buscando extinguir o uso do formulário em SharePoint.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Organize sua empresa',
+    Svg: require('@site/static/img/organize.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+         Um sistema para gerenciamento dos processos das demandas durante sua execução.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Modernize o seu negócio',
+    Svg: require('@site/static/img/modernize.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Facilitar o método burocrático de gestão das solicitações e aprovações de sistemas de TI, 
+        centralizando os dados e otimizando o processo produtivo.
       </>
     ),
   },
