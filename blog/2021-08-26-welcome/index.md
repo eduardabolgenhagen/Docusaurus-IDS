@@ -8,8 +8,6 @@ A empresa **WEG** é uma multinacional que é conhecida por suas atitudes susten
 
 ![Docusaurus Plushie](./weeg.png)
 
-<img src="weeg.png"/>
-
 Visando uma melhoria de um novo sistema para registrar demandas de novos sistemas e buscando extinguir o uso do formulário em SharePoint, a WEG sugere projetar e desenvolver um sistema para gerenciamento dos processos das demandas durante sua execução. Tendo isso em vista, a empresa nota a necessidade de facilitar o método burocrático de gestão das solicitações e aprovações de sistemas de TI, centralizando os dados e otimizando o processo produtivo. Resultando em um aprimoramento tecnológico com processos que carreguem seu propósito:  “Desenvolver tecnologias e soluções para contribuir na construção de um mundo mais eficiente e sustentável”.
 
 O sistema contará com interfaces simples e de fácil adaptação, visando uma melhor e mais rápida habituação com a nova ferramenta. 
@@ -20,8 +18,6 @@ A aparência do sistema contará com as cores presentes na logo, que representam
 
 As cores representam cada estágio dos processos presentes no sistema:
 
-`Demandas`
-`Propostas`
+`Demandas`   `Propostas`
 
-`Pautas`
-`Atas`
+`Pautas`     `Atas`
