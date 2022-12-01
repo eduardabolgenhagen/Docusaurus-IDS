@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Fácil utilização',
-    Svg: require('@site/static/img/aaaa.svg').default,
+    Svg: require('@site/static/img/facil.svg').default,
     description: (
       <>
         Visando uma melhoria de um novo sistema para registrar demandas de novos sistemas e buscando extinguir o uso do formulário em SharePoint.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Organize sua empresa',
-    Svg: require('@site/static/img/organize.svg').default,
+    Svg: require('@site/static/img/4.svg').default,
     description: (
       <>
          Um sistema para gerenciamento dos processos das demandas durante sua execução.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Modernize o seu negócio',
-    Svg: require('@site/static/img/modernize.svg').default,
+    Svg: require('@site/static/img/5.svg').default,
     description: (
       <>
         Facilitar o método burocrático de gestão das solicitações e aprovações de sistemas de TI, 

@@ -1,25 +1,27 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: GEDESTI e WEG
+title: GEDESTI e WEG
+authors: []
+tags: []
 ---
+A empresa **WEG** é uma multinacional que é conhecida por suas atitudes sustentáveis, premiada inúmeras vezes por sua inovação. Uma empresa que segue uma visão onde busca “ser referência global em motores, geradores, transformadores e acionamentos elétricos com uma ampla oferta integrada para eletrificação, automação e digitalização.”
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+![Docusaurus Plushie](./weeg.png)
 
-Simply add Markdown files (or folders) to the `blog` directory.
+<img src="weeg.png"/>
 
-Regular blog authors can be added to `authors.yml`.
+Visando uma melhoria de um novo sistema para registrar demandas de novos sistemas e buscando extinguir o uso do formulário em SharePoint, a WEG sugere projetar e desenvolver um sistema para gerenciamento dos processos das demandas durante sua execução. Tendo isso em vista, a empresa nota a necessidade de facilitar o método burocrático de gestão das solicitações e aprovações de sistemas de TI, centralizando os dados e otimizando o processo produtivo. Resultando em um aprimoramento tecnológico com processos que carreguem seu propósito:  “Desenvolver tecnologias e soluções para contribuir na construção de um mundo mais eficiente e sustentável”.
 
-The blog post date can be extracted from filenames, such as:
+O sistema contará com interfaces simples e de fácil adaptação, visando uma melhor e mais rápida habituação com a nova ferramenta. 
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+A aparência do sistema contará com as cores presentes na logo, que representam e levam a identidade da empresa.
 
-A blog post folder can be convenient to co-locate blog post images:
+![Docusaurus Plushie](./atr.png)
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+As cores representam cada estágio dos processos presentes no sistema:
 
-The blog supports tags as well!
+`Demandas`
+`Propostas`
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+`Pautas`
+`Atas`
