@@ -2,11 +2,23 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Tutorial
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Uma maneira mais fácil de gerenciar seus projetos.
 
-## Getting Started
+## Login através de e-mail corporativo
+
+![Docusaurus Plushie](./login.png)
+
+## Método de recuperação de senha
+
+![Docusaurus Plushie](./recuperarSenha.png)
+
+## Página inicial
+
+No canto superior direito fica a foto de perfil do usuário, bem como as bandeiras dos idiomas dispostos. Na lateral esquerda estão apresentadas todas as ações do sistema. Já no corpo da página é concedida todas as demandas feitas pelo usuários e pelo seu departamento, evitando assim sobrecarga com conteúdo duplicados e deixando os processos transparentes a aqueles que interessam.
+
+![Docusaurus Plushie](./paginaInicial.png)
 
 Get started by **creating a new site**.
 

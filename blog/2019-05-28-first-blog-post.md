@@ -1,12 +1,22 @@
 ---
-slug: first-blog-post
-title: First Blog Post
-authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
+slug: Diagramação
+title: Diagramação
+authors: []
+tags: []
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+***Caso de Uso***
+
+![Docusaurus Plushie](./2021-08-26-welcome/Diagrama%20de%20Caso%20de%20Uso%20Gedesti.png)
+
+***Diagrama de Classe***
+
+![Docusaurus Plushie](./2021-08-26-welcome/Diagrama%20de%20Classe%20-%20Gedesti.png)
+
+***Fluxograma***
+
+![Docusaurus Plushie](./2021-08-26-welcome/Fluxograma%20Gedesti.png)
+
+***Diagrama de Atividade***
+
+![Docusaurus Plushie](./2021-08-26-welcome/Diagrama%20de%20Atividade%20Gedesti.png)

@@ -1,22 +1,18 @@
 ---
-slug: Diagramação
-title: Diagramação
-authors: 
+slug: BIA
+title: BIA
+authors: []
 tags: []
 ---
 
-***Caso de Uso***
+Ao entrar no sistema pela primeira vez, você contará com a BIA, nossa assistente virtual que dará breves intruções de como utilizar o sistema.
 
-![Docusaurus Plushie](./2021-08-26-welcome/Diagrama%20de%20Caso%20de%20Uso%20Gedesti.png)
+BIA foi pensada no conceito sustentável e ergonomico que a empresa leva e seu nome significa **Baixo Impacto Ambiental**. Ela fará uma tuor pelo sistema e mostrará a você as principais funcionalidades para que a adaptação seja breve e eficiente. 
 
-***Diagrama de Classe***
+![Docusaurus Plushie](./2021-08-26-welcome/bia.png)
 
-![Docusaurus Plushie](./2021-08-26-welcome/Diagrama%20de%20Classe%20-%20Gedesti.png)
+Dúvidas sobre o sistema? Acesse o vídeo abaixo:
 
-***Fluxograma***
+<iframe width="560" height="315" src="https://www.youtube.com/embed/06DF5A_n5-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Docusaurus Plushie](./2021-08-26-welcome/Fluxograma%20Gedesti.png)
 
-***Diagrama de Atividade***
-
-![Docusaurus Plushie](./2021-08-26-welcome/Diagrama%20de%20Atividade%20Gedesti.png)

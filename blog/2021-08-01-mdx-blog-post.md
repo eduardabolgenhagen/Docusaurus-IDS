@@ -16,8 +16,8 @@ As demandas do sistemas serão baseadas em um workflow, que definirá um status 
 
 O sistema terá a funcionalidade de criar propostas para o comitê, incluindo os custos totais daquele projeto, além de informações que levarão à execução do projeto.
 
-
-
 As atas são geradas através dos dados da proposta feita pelo Analista, permitindo- o fazer ajustes e edições solicitadas pela comissão. O sistema também deverá ter um backup de todas as alterações feitas naquela proposta para permitir auditoria.
 	
 Por fim, as propostas poderão ser reprovadas ou aprovadas, tendo a possibilidade de prosseguir ou paralisar os processos de desenvolvimento da demanda.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mFuext3_sP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
