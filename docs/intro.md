@@ -8,52 +8,83 @@ Uma maneira mais fácil de gerenciar seus projetos.
 
 ## Login através de e-mail corporativo
 
-![Docusaurus Plushie](./login.png)
+Insira seu e-mail corporativo e sua senha. Clique no botão "Entrar".
+
+![Docusaurus Plushie](./assets/login.png)
 
 ## Método de recuperação de senha
 
-![Docusaurus Plushie](./recuperarSenha.png)
+Insira seu e-mail corporativo para onde irá ser encaminhado o passo a passo para a recuperação de senha.
+
+![Docusaurus Plushie](./assets/recuperarSenha.png)
 
 ## Página inicial
 
 No canto superior direito fica a foto de perfil do usuário, bem como as bandeiras dos idiomas dispostos. Na lateral esquerda estão apresentadas todas as ações do sistema. Já no corpo da página é concedida todas as demandas feitas pelo usuários e pelo seu departamento, evitando assim sobrecarga com conteúdo duplicados e deixando os processos transparentes a aqueles que interessam.
 
-![Docusaurus Plushie](./paginaInicial.png)
+![Docusaurus Plushie](./assets/paginaInicial.png)
 
-Get started by **creating a new site**.
+## Barra lateral
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+**DEMANDAS** 
 
-### What you'll need
+  No ícone  ![Docusaurus Plushie](./assets/draft.png)  você conseguirá visualizar a página inicial, podendo pesquisar, filtrar e até mesmo ser direcionado a criar uma nova demanda. 
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+  FILTRO
 
-## Generate a new site
+  Nele você conseguirá filtrar as demandas de diversas formas. Quando filtra-las com as condições selecionadas, você terá a opção de exportar esses dados para um arquivo Excel. 
 
-Generate a new Docusaurus site using the **classic template**.
+  ![Docusaurus Plushie](./assets/filtro.png)
 
-The classic template will automatically be added to your project after you run the command:
+  MODO DE VISUALIZAR DEMANDAS
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+  São dispostos dois modos, para uma melhor organização e visualização das informações, são em eles em lista ou em cards.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+  ![Docusaurus Plushie](./assets/visualiza%C3%A7%C3%A3oEmLista.png)
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+**NOTIFICAÇÕES**
 
-## Start your site
+No ícone  ![Docusaurus Plushie](./assets/notifications.png)  você será notificado de todas as atualizações referente as demandas em que está relacionado. 
 
-Run the development server:
+![Docusaurus Plushie](./assets/notifica%C3%A7%C3%B5es.png)
 
-```bash
-cd my-website
-npm run start
-```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+**CONFIGURAÇÕES**
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+No ícone  ![Docusaurus Plushie](./assets/settings.png)  estará disposto todas as configurações referentes ao seu perfil, sejam elas a foto do usuário, senha, tamanho de fonte e configurações de notificações.  
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+![Docusaurus Plushie](./assets/configura%C3%A7%C3%B5es.png)
+
+
+**SAIR DO SISTEMA**
+
+No ícone ![Docusaurus Plushie](./assets/logout.png) você sairá do sistema.
+
+Além disso, você poderá acessar essas funcionalidades através da imagem de perfil na barra superior do sistema.
+
+![Docusaurus Plushie](./assets/modal.png)
+
+**CHAT**
+
+Quando o responsável por analisar a sua demanda achar necessário, ele poderá abrir um chat de conversa para que possam discutir sobre a sua solicitação. O ícone do chat  ![Docusaurus Plushie](./assets/chat_bubble.png)  aparecerá na barra lateral juntamente com os outros ícones para que possa acessar facilmente essa funcionalidade. 
+
+
+
+
+INSERIR PRINT
+
+
+
+
+
+## Criar uma demanda
+
+Como usuário, seu objetivo principal no sistema é criar uma demanda. Tendo isso em vista, você preencherá todos os dados necessários socilitados nas três etapas.
+
+Você terá que preencher todos os campos obrigatóriamente para que a demanda seja efetivada. 
+
+Na terceira etapa, você terá a opção de adicionar anexos caso necessário. 
+
+![Docusaurus Plushie](./assets/createDemandStep1.png)
+![Docusaurus Plushie](./assets/createDemandStep2.png)
+![Docusaurus Plushie](./assets/createDemandStep3.png)

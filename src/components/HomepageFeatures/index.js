@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Organize sua empresa',
+    title: 'Organização',
     Svg: require('@site/static/img/4.svg').default,
     description: (
       <>
@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Modernize o seu negócio',
+    title: 'Modernização',
     Svg: require('@site/static/img/5.svg').default,
     description: (
       <>
