@@ -1,8 +1,5 @@
 ---
-slug: BIA
-title: BIA
-authors: []
-tags: []
+sidebar_position: 1
 ---
 
 Ao entrar no sistema pela primeira vez, você contará com a BIA, nossa assistente virtual que dará breves intruções de como utilizar o sistema.

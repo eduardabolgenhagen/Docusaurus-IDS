@@ -1,13 +1,9 @@
 ---
-slug: Diagramação
-title: Diagramação
-authors: []
-tags: []
+sidesidebar_position: 1
 ---
 
 ***Caso de Uso***
 
-![Docusaurus Plushie](./2021-08-26-welcome/Diagrama%20de%20Caso%20de%20Uso%20Gedesti.png)
 
 ***Diagrama de Classe***
 

@@ -22,12 +22,12 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+        blog: {
+          showReadingTime: false,
           editUrl: undefined,
         },
-        blog: {
-          showRecentPosts: false,
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
           editUrl: undefined,
         },
         theme: {
@@ -48,12 +48,21 @@ const config = {
         },
         items: [
           {
+            to: '/blog',
+            label: 'Objetivo',
+            position: 'left',
+          },
+          {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Tutorial',
           },
-          { to: '/blog', label: 'Objetivo', position: 'left' },
+          {
+            to: '/docs/documentation',
+            position: 'left',
+            label: 'Documentação',
+          },
         ],
       },
       footer: {
