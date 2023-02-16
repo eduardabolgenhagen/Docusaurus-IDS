@@ -10,11 +10,11 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  projectName: 'GEDESTI', 
+  projectName: 'GEDESTI',
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt',
+    locales: ['pt']
   },
 
   presets: [
@@ -24,13 +24,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: undefined,
         },
         blog: {
-          showReadingTime: true,
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          showRecentPosts: false,
+          editUrl: undefined,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -84,11 +82,11 @@ const config = {
               {
                 label: 'Eduarda Bolgenhagen De Campos',
                 to: 'https://github.com/eduardabolgenhagen'
-              }, 
+              },
               {
                 label: 'Leonardo Heitor Poglia',
                 to: 'https://github.com/leopoglia'
-              }, 
+              },
               {
                 label: 'Vytor Augusto Rosa',
                 to: 'https://github.com/Vytor-Rosa'
