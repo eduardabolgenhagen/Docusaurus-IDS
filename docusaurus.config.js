@@ -9,7 +9,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/gedesti.svg',
   projectName: 'GEDESTI',
 
   i18n: {
