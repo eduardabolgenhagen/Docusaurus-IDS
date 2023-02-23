@@ -1,5 +1,8 @@
 ---
-sidesidebar_position: 1
+slug: mdx-blog-post
+title: Sobre o sistema
+authors: []
+tags: []
 ---
 
 ***Caso de Uso***
@@ -7,7 +10,6 @@ sidesidebar_position: 1
 
 ***Diagrama de Classe***
 
-![Docusaurus Plushie](./2021-08-26-welcome/Diagrama%20de%20Classe%20-%20Gedesti.png)
 
 ***Fluxograma***
 
