@@ -1,6 +1,7 @@
 ---
-sidebar_position: 1
-
+title: Sobre o sistema
+authors: []
+tags: []
 ---
 O sistema tem como finalidade a solicitação da demanda, elaboração de proposta, geração e registro de atas. E poderá ser acessado por usuários WEG sendo eles solicitante, analista de TI, gerente de negócio e gerente de TI através de um login corporativo, cada qual com suas funções.
 

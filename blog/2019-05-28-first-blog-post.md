@@ -1,6 +1,6 @@
 ---
-slug: mdx-blog-post
-title: Sobre o sistema
+slug: first-blog-post
+title: Diagramação
 authors: []
 tags: []
 ---

@@ -1,5 +1,8 @@
 ---
-sidebar_position: 1
+slug: long-blog-post
+title: BIA
+authors: []
+tags: []
 ---
 
 Ao entrar no sistema pela primeira vez, você contará com a BIA, nossa assistente virtual que dará breves intruções de como utilizar o sistema.
