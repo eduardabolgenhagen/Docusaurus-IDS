@@ -1,6 +1,6 @@
 ---
 slug: mdx-blog-post
-title: GEDESTI E WEG
+title: IT Demand System E WEG
 authors: []
 tags: []
 ---
@@ -15,7 +15,7 @@ O sistema contará com interfaces simples e de fácil adaptação, visando uma m
 
 A aparência do sistema contará com as cores presentes na logo, que representam e levam a identidade da empresa.
 
-![Docusaurus Plushie](./atr.png)
+![Docusaurus Plushie](./logo.png)
 
 As cores representam cada estágio dos processos presentes no sistema:
 

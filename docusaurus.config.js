@@ -3,14 +3,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'GEDESTI',
-  tagline: 'Gerenciamento De Demandas De Sistemas De TI',
+  title: 'WEG IDS',
+  tagline: 'WEG - IT Demand System',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/gedesti.svg',
-  projectName: 'GEDESTI',
+  projectName: 'IDS',
 
   i18n: {
     defaultLocale: 'pt',
@@ -23,6 +23,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         blog: {
+          blogSidebarTitle: "Objetivo",
           showReadingTime: false,
           editUrl: undefined,
         },
@@ -41,7 +42,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'GEDESTI',
+        title: 'WEG IDS',
         logo: {
           alt: 'My Site Logo',
           src: 'img/gedesti.svg',
@@ -53,27 +54,21 @@ const config = {
             position: 'left',
           },
           {
-            type: 'doc',
-            docId: 'intro',
+            to: '/docs/tutorial',
             position: 'left',
             label: 'Tutorial',
-          },
-          {
-            to: '/docs/documentation',
-            position: 'left',
-            label: 'Documentação',
-          },
+          }
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Documentação',
+            title: 'Itens',
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/tutorial',
               },
               {
                 label: 'Objetivo',
@@ -103,7 +98,7 @@ const config = {
             ],
           },
         ],
-        copyright: `GEDESTI WEG © ${new Date().getFullYear()} Gedesti`,
+        copyright: `WEG IDS © ${new Date().getFullYear()}`,
       },
       prism: {
         theme: lightCodeTheme,
