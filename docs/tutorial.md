@@ -16,49 +16,49 @@ Insira seu e-mail corporativo e sua senha. Clique no botão "Entrar".
 
 Insira seu e-mail corporativo para onde irá ser encaminhado o passo a passo para a recuperação de senha.
 
-![Docusaurus Plushie](./assets/recuperarSenha.png)
+![Docusaurus Plushie](./assets/recoverPassword.png)
 
 ## Página inicial
 
 No canto superior direito fica a foto de perfil do usuário, bem como as bandeiras dos idiomas dispostos. Na lateral esquerda estão apresentadas todas as ações do sistema. Já no corpo da página é concedida todas as demandas feitas pelo usuários e pelo seu departamento, evitando assim sobrecarga com conteúdo duplicados e deixando os processos transparentes a aqueles que interessam.
 
-![Docusaurus Plushie](./assets/paginaInicial.png)
+![Docusaurus Plushie](./assets/initialPage.png)
 
 ## Barra lateral
 
 **DEMANDAS** 
 
-  No ícone  ![Docusaurus Plushie](./assets/draft.png)  você conseguirá visualizar a página inicial, podendo pesquisar, filtrar e até mesmo ser direcionado a criar uma nova demanda. 
+  No ícone  ![Docusaurus Plushie](./assets/iconFile.png)  você conseguirá visualizar a página inicial, podendo pesquisar, filtrar e até mesmo ser direcionado a criar uma nova demanda. 
 
   FILTRO
 
   Nele você conseguirá filtrar as demandas de diversas formas. Quando filtra-las com as condições selecionadas, você terá a opção de exportar esses dados para um arquivo Excel. 
 
-  ![Docusaurus Plushie](./assets/filtro.png)
+  ![Docusaurus Plushie](./assets/filter.png)
 
   MODO DE VISUALIZAR DEMANDAS
 
   São dispostos dois modos, para uma melhor organização e visualização das informações, são em eles em lista ou em cards.
 
-  ![Docusaurus Plushie](./assets/visualiza%C3%A7%C3%A3oEmLista.png)
+  ![Docusaurus Plushie](./assets/listView.png)
 
 **NOTIFICAÇÕES**
 
-No ícone  ![Docusaurus Plushie](./assets/notifications.png)  você será notificado de todas as atualizações referente as demandas em que está relacionado. 
+No ícone  ![Docusaurus Plushie](./assets/iconNotification.png)  você será notificado de todas as atualizações referente as demandas em que está relacionado. 
 
-![Docusaurus Plushie](./assets/notifica%C3%A7%C3%B5es.png)
+![Docusaurus Plushie](./assets/notifications.png)
 
 
 **CONFIGURAÇÕES**
 
-No ícone  ![Docusaurus Plushie](./assets/settings.png)  estará disposto todas as configurações referentes ao seu perfil, sejam elas a foto do usuário, senha, tamanho de fonte e configurações de notificações.  
+No ícone  ![Docusaurus Plushie](./assets/iconSettings.png)  estará disposto todas as configurações referentes ao seu perfil, sejam elas a foto do usuário, senha, tamanho de fonte e configurações de notificações.  
 
-![Docusaurus Plushie](./assets/configura%C3%A7%C3%B5es.png)
+![Docusaurus Plushie](./assets/configurations.png)
 
 
 **SAIR DO SISTEMA**
 
-No ícone ![Docusaurus Plushie](./assets/logout.png) você sairá do sistema.
+No ícone ![Docusaurus Plushie](./assets/iconLogout.png) você sairá do sistema.
 
 Além disso, você poderá acessar essas funcionalidades através da imagem de perfil na barra superior do sistema.
 
@@ -66,7 +66,7 @@ Além disso, você poderá acessar essas funcionalidades através da imagem de p
 
 **CHAT**
 
-Quando o responsável por analisar a sua demanda achar necessário, ele poderá abrir um chat de conversa para que possam discutir sobre a sua solicitação. O ícone do chat  ![Docusaurus Plushie](./assets/chat_bubble.png)  aparecerá na barra lateral juntamente com os outros ícones para que possa acessar facilmente essa funcionalidade. 
+Quando o responsável por analisar a sua demanda achar necessário, ele poderá abrir um chat de conversa para que possam discutir sobre a sua solicitação. O ícone do chat  ![Docusaurus Plushie](./assets/iconChat.png)  aparecerá na barra lateral juntamente com os outros ícones para que possa acessar facilmente essa funcionalidade. 
 
 
 

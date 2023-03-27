@@ -1,7 +1,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-/** @type {import('@docusaurus/types').Config} */
+/** @type {import('@docusaurus/types').Config} */npm
 const config = {
   title: 'WEG IDS',
   tagline: 'WEG - IT Demand System',
@@ -9,7 +9,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/gedesti.svg',
+  favicon: 'img/ids.svg',
   projectName: 'IDS',
 
   i18n: {
@@ -45,7 +45,7 @@ const config = {
         title: 'WEG IDS',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/gedesti.svg',
+          src: 'img/ids.svg',
         },
         items: [
           {
