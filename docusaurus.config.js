@@ -1,8 +1,8 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const npmExecPath = process.env.npm_execpath;
+const npm = process.env.npm_execpath;
 
-/** @type {import('@docusaurus/types').Config} */npmExecPath
+/** @type {import('@docusaurus/types').Config} */npm
 const config = {
   title: 'WEG IDS',
   tagline: 'WEG - IT Demand System',
