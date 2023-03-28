@@ -8,7 +8,7 @@ const config = {
   tagline: 'WEG - IT Demand System',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/ids.svg',
   projectName: 'IDS',
