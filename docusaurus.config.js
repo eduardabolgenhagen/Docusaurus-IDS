@@ -42,7 +42,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'WEG IDS',
+        title: 'Manual de Usuário',
         logo: {
           alt: 'My Site Logo',
           src: 'img/ids.svg',
