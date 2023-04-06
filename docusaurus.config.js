@@ -4,7 +4,7 @@ const npm = process.env.npm_execpath;
 
 /** @type {import('@docusaurus/types').Config} */npm
 const config = {
-  title: 'WEG IDS',
+  title: 'Manual de Usuário IDS',
   tagline: 'WEG - IT Demand System',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -43,6 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
+
         title: 'WEG IDS',
         logo: {
           alt: 'My Site Logo',
@@ -52,7 +53,7 @@ const config = {
           {
             to: '/blog',
             label: 'Objetivo',
-            position: 'left',
+            position: 'left'
           },
           {
             to: '/docs/tutorial',
@@ -106,6 +107,8 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
 };
+
 
 module.exports = config;

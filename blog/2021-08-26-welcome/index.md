@@ -3,6 +3,7 @@ title: IT Demand System E WEG
 authors: []
 tags: []
 date: '2023-01-01'
+sidebar_label: IT Demand System e WEG
 ---
 
 A empresa **WEG** é uma multinacional que é conhecida por suas atitudes sustentáveis, premiada inúmeras vezes por sua inovação. Uma empresa que segue uma visão onde busca “ser referência global em motores, geradores, transformadores e acionamentos elétricos com uma ampla oferta integrada para eletrificação, automação e digitalização.”

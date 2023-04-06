@@ -3,6 +3,7 @@ title: WIDS
 authors: []
 tags: []
 date: '2023-01-01'
+sidebar_label: WIDS
 ---
 
 Ao entrar no sistema pela primeira vez, você contará com a WIDS, nossa assistente virtual que dará breves intruções de como utilizar o sistema.
