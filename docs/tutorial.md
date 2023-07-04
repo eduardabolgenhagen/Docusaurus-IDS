@@ -68,14 +68,7 @@ Além disso, você poderá acessar essas funcionalidades através da imagem de p
 
 Quando o responsável por analisar a sua demanda achar necessário, ele poderá abrir um chat de conversa para que possam discutir sobre a sua solicitação. O ícone do chat  ![Docusaurus Plushie](./assets/iconChat.png)  aparecerá na barra lateral juntamente com os outros ícones para que possa acessar facilmente essa funcionalidade. 
 
-
-
-
-INSERIR PRINT
-
-
-
-
+![Docusaurus Plushie](./assets/chat.png)
 
 ## Criar uma demanda
 
